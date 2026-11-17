@@ -78,6 +78,6 @@ My next step is to build on these foundations through consistent hands-on practi
 - [x] Check an email address on Have I Been Pwned — 0 breaches reported.
 - [x] Record the ten knowledge-baseline scores (1–10 scale).
 - [x] Identify five job requirements: SIEM, Splunk, ISO 27001, incident response, and Linux.
-- [ ] Publish a Day 1 learning update on LinkedIn.
+- [x] Publish a Day 1 learning update on LinkedIn.
 
 **Reflection:** The first day was about building the foundation. I now have a clear starting point, a list of skills to work toward, and a plan to track how much I improve over the next 90 days.
