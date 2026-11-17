@@ -1,4 +1,6 @@
-# Day 1 — Cybersecurity Foundations
+# The Cybersecurity Landscape
+
+**Day 1 of 90 · Understanding the Digital World**
 
 **Challenge:** 90 Days of Cybersecurity with MyFirstHack  
 **Focus:** Understanding the cybersecurity landscape and establishing a learning baseline.
