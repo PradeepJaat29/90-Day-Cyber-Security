@@ -18,51 +18,56 @@ I also learned why consistency and daily learning matter when building cybersecu
 - Completed the Day 1 introductory quiz.
 - **Score: 5/5 (100%)**
 
-## 3. Hands-on assignments
-
-The course introduced three practical tasks. Their results are not yet recorded here; I will add my findings after completing each task.
+## 3. Hands-on assignments and findings
 
 ### Task 1 — Check an email address for known data breaches
 
 **Resource:** [Have I Been Pwned](https://haveibeenpwned.com/)
 
-The assignment asks me to check an email address and record:
-- Total number of breaches reported.
-- The top three breach names and their years.
-- My honest reaction to the result.
+I checked my email address using Have I Been Pwned.
 
-**Status:** Assigned — results not yet added.
+- **Breaches found:** 0
+- **Top three breaches:** Not applicable — no breaches were reported.
+- **Reflection:** A result of zero breaches is reassuring. It is still important to use unique passwords, enable multi-factor authentication, and stay alert because a clean result does not guarantee an account can never be compromised.
 
-**Privacy note:** I will not publish the email address itself. I will only share the findings I am comfortable making public.
+**Privacy note:** I have not included my email address in this repository.
 
 ### Task 2 — Map my current cybersecurity knowledge
 
-The assignment asks me to rate my current knowledge from 1 (never heard of it) to 5 (can explain it clearly) in these ten areas:
+I recorded my starting knowledge in the ten areas below. The course prompt described a 1–5 scale, but I used a **1–10 scale**, where 10 represents strong confidence. I will keep this same scale when I revisit the ratings on Day 20 so the comparison remains consistent.
 
-1. Networking
-2. Linux and the command line
-3. Encryption
-4. Firewalls
-5. Phishing detection
-6. Malware types
-7. Penetration testing
-8. Incident response
-9. Cloud security
-10. Compliance (for example, GDPR and HIPAA)
+| Area | Baseline rating (out of 10) |
+|---|---:|
+| Networking | 6 |
+| Linux and the command line | 7 |
+| Encryption | 3 |
+| Firewalls | 7 |
+| Phishing detection | 8 |
+| Malware types | 7 |
+| Penetration testing | 2 |
+| Incident response | 1 |
+| Cloud security | 4 |
+| Compliance (GDPR, HIPAA, etc.) | 5 |
 
-These baseline scores will be revisited on Day 20 to measure progress.
-
-**Status:** Assigned — baseline scores not yet added.
+**Baseline average:** 5.0/10
 
 ### Task 3 — Review cybersecurity job requirements
 
-The assignment asks me to review three SOC Analyst job listings and two GRC Analyst listings on LinkedIn, then identify the five most frequently repeated requirements.
+After reviewing SOC Analyst and GRC Analyst job requirements, I noted these five recurring skills and technologies:
 
-**Status:** Assigned — job listings and common requirements not yet recorded.
+1. SIEM
+2. Splunk
+3. ISO 27001
+4. Incident response
+5. Linux
+
+I will use this list as a guide when choosing topics and practical exercises throughout the challenge.
 
 ## 4. Key takeaway
 
-Day 1 introduced the different areas of cybersecurity and helped me understand that a career in this field requires continuous learning. I completed the introductory quiz with a perfect score. My next step is to complete the practical assignments and record the results so I can compare my knowledge as the 90-day challenge progresses.
+Day 1 introduced the different areas of cybersecurity and helped me understand that a career in this field requires continuous learning. I completed the introductory quiz with a perfect score, checked my email for known breaches, recorded my knowledge baseline, and identified skills that appear in cybersecurity job requirements.
+
+My next step is to build on these foundations through consistent hands-on practice and daily documentation.
 
 ## 5. Daily progress
 
@@ -70,9 +75,9 @@ Day 1 introduced the different areas of cybersecurity and helped me understand t
 - [x] Understand the difference between Cybersecurity, SOC, and GRC.
 - [x] Learn about consistency and daily learning.
 - [x] Complete the quiz — 5/5.
-- [ ] Complete the Have I Been Pwned exercise and record findings.
-- [ ] Record the ten knowledge-baseline scores.
-- [ ] Review five job listings and identify common requirements.
+- [x] Check an email address on Have I Been Pwned — 0 breaches reported.
+- [x] Record the ten knowledge-baseline scores (1–10 scale).
+- [x] Identify five job requirements: SIEM, Splunk, ISO 27001, incident response, and Linux.
 - [ ] Publish a Day 1 learning update on LinkedIn.
 
-**Reflection:** The first day was about building the foundation. I am starting by learning the concepts, being honest about what I know, and building a habit of documenting progress every day.
+**Reflection:** The first day was about building the foundation. I now have a clear starting point, a list of skills to work toward, and a plan to track how much I improve over the next 90 days.
