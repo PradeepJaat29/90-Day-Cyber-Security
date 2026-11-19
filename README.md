@@ -1,7 +1,7 @@
 # 90-Day-Cyber-Security
 
 A 90-day learning journey focused on building practical cybersecurity foundations and preparing for entry-level SOC Analyst opportunities.
-
+ 
 I am documenting what I study, practise, and learn each day. This repository will reflect my actual progress—completed work will be marked complete, while pending tasks will remain clearly identified.
 
 ## Progress
