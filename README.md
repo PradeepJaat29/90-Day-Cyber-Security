@@ -6,7 +6,7 @@ I am documenting what I study, practise, and learn each day. This repository wil
  
 ## Progress
 
-| Day | Focus | Status |
+| Day | Focus | Status | 
 |---|---|---|
 | [Day 1](Day-01/README.md) | The Cybersecurity Landscape | Learning log published; quiz and three assignments documented |
 | [Day 2](Day-02/README.md) | Why Most Beginners Fail (And How You Won't) | Learning log published; daily study routine and personal action plan documented |
